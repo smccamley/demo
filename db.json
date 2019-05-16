@@ -46,7 +46,7 @@
     }
   ],
   "learning_objectives": [],
-  "partner": null,
+  "partner": {},
   "slug": null
 },
     { "id": 2, "body": "some comment", "postId": 1 }
